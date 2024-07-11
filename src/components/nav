@@ -1,0 +1,8 @@
+            <div className="Nave">                    
+                <ul className="lista">
+                    <h3 className="Menu">INICIO</h3>
+                    <h3 className="Menu">REGISTRARSE</h3>
+                    <h3 className="Menu">PRODUCTOS</h3>
+                    <h3 className="Menu">SALE</h3>
+                </ul>
+            </div>

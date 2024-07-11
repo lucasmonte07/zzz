@@ -1,0 +1,73 @@
+/*
+.inicio
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;    
+}
+*/
+
+.linkProductos
+{
+    font-size: 30px;
+    color: white;
+}
+
+.servicios
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    padding-top: 50px;   
+}
+
+.productos
+{
+    display: flex;        
+    justify-content: center;
+    align-items: center; 
+    padding-top: 50px;  
+}    
+
+
+.principal_container
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;    
+    align-content: center;
+    padding-left: 70px; 
+    margin-top: 40px;
+     
+       
+}
+
+.divFormPro
+{
+    background-color:rgb(73, 70, 70);
+    width: 500px;
+    margin-top: 25px;
+}
+
+.divForm
+{
+    background-color:rgb(73, 70, 70);
+    width: 500px;
+    margin-top: 70px;
+
+}
+
+.divFormLog
+{
+    background-color:rgb(73, 70, 70);
+    width: 500px;
+    margin-top: 70px;
+}
+
+.form-control
+{
+    background-color: rgb(194, 185, 185);
+}
